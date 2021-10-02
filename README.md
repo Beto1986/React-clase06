@@ -1,3 +1,9 @@
+Ejercicio To Do: 
+1- Se ingresa el DNI y el nombre
+2- Al presionar el botón "Agregar" se inserta un nuevo item segun el dni y nombre ingresado junto con un botón al lado que cumple la función de poder eliminar ese item en particular
+3- Presionar cada botón "X" para ver como eliminar un item específico.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
